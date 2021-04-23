@@ -4,3 +4,4 @@ Claude is angry, very angry.
 Whoever does not like cakes may wish to leave the place.
 But why are you here?
 And Natalia is also under the table.
+But Natalia remains under the table. She does not want to speak.
