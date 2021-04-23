@@ -1,1 +1,1 @@
-This is a collaborative project together with Joshua.
+This is a collaborative project together with Claude. Joshua is not here.
